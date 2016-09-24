@@ -2,6 +2,5 @@
 published: true
 title: dfdsg
 layout: post
-permalink: sdgsdg
 ---
 sdgdsgdsgdsg
